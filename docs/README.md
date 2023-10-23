@@ -5,4 +5,4 @@
 5. 비교한 뒤에 ball의 갯수를 count 하는 기능
 6. strike의 의 갯수를 count 하는 기능 
 7. ball과 strike의 갯수를 count하여 결과값을 출력하는 기능
-8. 
+8. 어쩌고 저쩌고
